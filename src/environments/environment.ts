@@ -3,6 +3,6 @@ export const environment = {
   api2Url:   'https://wdd430-w11-cms-main.vercel.app/api',
   api3Url:  'https://wdd430-w11-cms-backend.vercel.app/api',
   api4Url:  'https://wdd430-w11-cms-backend.onrender.com/api',
-  apiUrl:  'https://wdd430-w11-cms-backend.onrender.com/api',
+  apiUrl:  'https://wdd430-w11-cms-complete-render.onrender.com/api',
   localUrl: 'http://localhost:3000/api'
 };
